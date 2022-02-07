@@ -18,6 +18,8 @@ import java.util.List;
 @EnableFeignClients("com.in28minutes.microservices.repository")
 //@EnableFeignClients
 @EnableDiscoveryClient
+
+
 public class CurrencyConvertionServiceApplication  {
 
 
